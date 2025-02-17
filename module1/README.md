@@ -5,6 +5,7 @@ This module explores the practical applications and implications of artificial i
 
 ## Topics
 ## Module Topics
+!!!!!!!!!!!!! TOPICS !!!!!!
 - Introduction to AI and its real-life applications
 - AI in Healthcare
 - AI in Transportation
