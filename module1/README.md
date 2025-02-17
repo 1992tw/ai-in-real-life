@@ -5,6 +5,7 @@ This module explores the practical applications and implications of artificial i
 
 ## Topics
 ## Module Topics
+!!!!!!!!!!!!! TOPICS !!!!!!
 - Introduction to AI and its real-life applications
 - AI in Healthcare
 - AI in Transportation
@@ -16,6 +17,7 @@ This module explores the practical applications and implications of artificial i
 
 ## Objectives
 ## Module Objectives
+- NEW OBJECTIVE
 - Understand the fundamental concepts of AI and its role in real-world applications.
 - Analyze the impact of AI technologies in various sectors such as healthcare, finance, and transportation.
 - Evaluate the ethical considerations and potential biases associated with AI systems.
