@@ -1,6 +1,6 @@
 ## Overview
 ## Module Overview: AI in Real Life
-
+STAAAAAAART HERE
 This module explores the practical applications and implications of artificial intelligence in various domains of everyday life. Through a series of structured lessons, students will develop an understanding of how AI technologies are integrated into industries such as healthcare, transportation, finance, and home automation. The course provides hands-on experiences and case studies to illustrate both the potential benefits and ethical considerations of AI.
 
 ## Topics
